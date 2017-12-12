@@ -24,3 +24,8 @@ https://www.safaribooksonline.com/library/view/practical-machine-learning/978149
 Beginer's guide
 
 https://medium.com/@LD/a-newbie-s-guide-to-h2o-in-python-4cb83739484c
+
+
+Tutorial
+
+https://github.com/h2oai/h2o-tutorials
